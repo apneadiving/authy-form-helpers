@@ -40,4 +40,6 @@ Session.vim
 
 .db*
 config/app.yml
+.ruby-version
+.ruby-gemset
 
